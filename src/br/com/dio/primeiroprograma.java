@@ -13,7 +13,7 @@ public class primeiroprograma {
 			
 			System.out.println(gato);
 			System.out.println(livros);
-			System.out.println("Github liberado com sucesso");			
+			System.out.println("Github liberado com sucesso!");			
 	}
 
 }
